@@ -44,7 +44,7 @@ The **Simple Quiz App** is a web-based application that allows users to take mul
 4. At the end of the quiz, your score will be displayed with an option to **Play Again**.
 
 ## Project Structure
-    ```plaintext
+    ```
     Quiz-App/
     │
     ├── index.html       # Main HTML file for the quiz
